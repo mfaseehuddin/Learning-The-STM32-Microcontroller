@@ -1,0 +1,10 @@
+23:47:31 **** Incremental Build of configuration Debug for project IntroToUART ****
+make -j20 all 
+arm-none-eabi-size  IntroToUART.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6356	     12	   1644	   8012	   1f4c	IntroToUART.elf
+Finished building: default.size.stdout
+ 
+
+23:47:32 Build Finished. 0 errors, 0 warnings. (took 204ms)
+

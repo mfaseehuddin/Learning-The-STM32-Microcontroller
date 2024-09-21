@@ -1,0 +1,41 @@
+2024-09-22 00:23:18,134 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-09-22 00:23:21,199 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-09-22 00:23:25,376 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-09-22 00:23:26,916 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 714689600 Bytes (1073741824)
+2024-09-22 00:23:28,073 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 729369664 Bytes (1073741824)
+2024-09-22 00:23:28,956 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 757154880 Bytes (1073741824)
+2024-09-22 00:23:29,055 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2024-09-22 00:23:29,056 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: USART
+2024-09-22 00:23:29,056 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: TIM1_8F1
+2024-09-22 00:23:29,056 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: TIM1_8F1
+2024-09-22 00:23:29,056 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2024-09-22 00:23:29,056 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2024-09-22 00:23:29,056 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: ADC
+2024-09-22 00:23:29,056 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2024-09-22 00:23:29,057 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.0.202406281431\\db\
+2024-09-22 00:23:29,101 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Aria\STM32\SixChannelPWM\MXTmpFiles\license.tmp_save
+2024-09-22 00:23:29,133 [INFO] CodeEngine:279 - Generated code: D:\Aria\STM32\SixChannelPWM\MXTmpFiles\license.tmp
+2024-09-22 00:23:29,148 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Aria\STM32\SixChannelPWM\MXTmpFiles\gpio.tmp_save
+2024-09-22 00:23:29,220 [INFO] CodeEngine:279 - Generated code: D:\Aria\STM32\SixChannelPWM\MXTmpFiles\gpio.tmp
+2024-09-22 00:23:29,281 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Aria\STM32\SixChannelPWM\Core\Src\stm32f1xx_it.c_save
+2024-09-22 00:23:29,374 [INFO] CodeEngine:279 - Generated code: D:\Aria\STM32\SixChannelPWM\Core\Src\stm32f1xx_it.c
+2024-09-22 00:23:29,378 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Aria\STM32\SixChannelPWM\Core\Inc\stm32f1xx_it.h_save
+2024-09-22 00:23:29,408 [INFO] CodeEngine:279 - Generated code: D:\Aria\STM32\SixChannelPWM\Core\Inc\stm32f1xx_it.h
+2024-09-22 00:23:29,419 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Aria\STM32\SixChannelPWM\Core\Src\stm32f1xx_hal_msp.c_save
+2024-09-22 00:23:29,473 [INFO] CodeEngine:279 - Generated code: D:\Aria\STM32\SixChannelPWM\Core\Src\stm32f1xx_hal_msp.c
+2024-09-22 00:23:29,476 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Aria\STM32\SixChannelPWM\MXTmpFiles\system.tmp_save
+2024-09-22 00:23:29,503 [INFO] CodeEngine:279 - Generated code: D:\Aria\STM32\SixChannelPWM\MXTmpFiles\system.tmp
+2024-09-22 00:23:29,513 [INFO] CodeEngine:311 - oldGeneratedFile, D:\Aria\STM32\SixChannelPWM\Core\Inc\stm32f1xx_hal_conf.h_save
+2024-09-22 00:23:29,545 [INFO] CodeEngine:335 - Generated code: D:\Aria\STM32\SixChannelPWM\Core\Inc\stm32f1xx_hal_conf.h
+2024-09-22 00:23:29,558 [WARN] IPConfigManager:3554 - IP not found : TIM
+2024-09-22 00:23:29,558 [WARN] CodeGenerator:4002 - IP not found : null
+2024-09-22 00:23:29,566 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Aria\STM32\SixChannelPWM\Core\Inc\main.h_save
+2024-09-22 00:23:29,606 [INFO] CodeEngine:279 - Generated code: D:\Aria\STM32\SixChannelPWM\Core\Inc\main.h
+2024-09-22 00:23:29,612 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Aria\STM32\SixChannelPWM\Core\Src\main.c_save
+2024-09-22 00:23:29,680 [INFO] CodeEngine:279 - Generated code: D:\Aria\STM32\SixChannelPWM\Core\Src\main.c
+2024-09-22 00:23:29,923 [INFO] ProjectBuilder:3249 - Time for Copy HAL[1] : 171mS.
+2024-09-22 00:23:29,924 [INFO] ProjectBuilder:4828 - Project Generator version: 4.4.0-B60
+2024-09-22 00:23:29,955 [INFO] ConfigFileManager:1531 - The Die is : DIE410
+2024-09-22 00:23:30,356 [INFO] ProjectBuilder:5097 - Time for Generating toolchain IDE Files: 432mS.
+2024-09-22 00:23:30,357 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2024-09-22 00:23:30,360 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
